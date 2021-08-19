@@ -5,4 +5,4 @@ Make your way over to the [Discussions](https://github.com/open-policy-agent/fee
 
 This repository is still under construction.
 
-For faster responses from the community check out the [OPA Slack}(http://slack.openpolicyagent.org/).
+For faster responses from the community check out the [OPA Slack](http://slack.openpolicyagent.org/).
